@@ -9,7 +9,7 @@
 
 *UML диаграмма классов:*
 
-![image](https://sun9-3.userapi.com/impg/-9mg7vojcfcsmdJq_Zt5BOCu9Fr8M_PZerqXjQ/NH_X2SGRLqk.jpg?size=401x404&quality=96&sign=6925e2824f70d1d86deb67fba204eded&type=album)
+![image](https://sun9-29.userapi.com/impg/MrebC1pf7OreHMiTSflViCwjgudBnRk3SXIiKQ/CEUMyOjI3P4.jpg?size=401x274&quality=96&sign=8d2c6c9f030ac474ed3079f828c12925&type=album)
 
 ## 
 В качестве базового класса был разработан класс **Point**, описывающий точку в *трехмерном евклидовом пространстве с прямоугольной декартовой системой координат.* Класс содержит поля:
