@@ -73,7 +73,7 @@ public int get_z() {...};
 
 public override string ToString() {...}; //перегруженный ToString(), возвращает координатную тройку чисел (x,y,z)
 ```
-![image](https://latex2png.com/pngs/45184d87b41b5e73a64d1e48b4b4a581.png)
+![image](https://sun9-85.userapi.com/impg/koUzIPZ2z1JoDpmn8Dk9ePOlV8T7w-GMOPkNYQ/ZiIihdv0_zI.jpg?size=790x90&quality=96&sign=2299aeadfd868ff768b1fd19325a59d7&type=album)
 
 ## Тесты
 *Рассмотрим примеры:*
