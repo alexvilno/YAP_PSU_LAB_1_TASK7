@@ -51,7 +51,7 @@ public int RV_Volume(); //объем параллелепипеда, постр�
 public double RV_Length(); //длина радиус-вектора точки
 public double Distance(Point p2); //расстояние между двумя точками, определяется по формуле (1)
 ```
-![image](https://latex2png.com/pngs/07ad76bbadc9887979dc2c03ff53185c.png)
+![image](https://latex2png.com/pngs/b818bf395196f1121ca61583cc9ddf6a.png)
 
 
 ## UML диаграмма классов
