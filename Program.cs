@@ -38,8 +38,6 @@ class LAB_1_7
         t3.Set_A(p2);
         t3.ShowInfo();
 
-
-
         Console.Read();
         
     }
