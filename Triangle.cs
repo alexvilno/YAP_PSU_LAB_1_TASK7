@@ -120,7 +120,7 @@ namespace LAB1_TASK7
                 rp_a.get_z() * rp_a.get_z()) * Math.Sqrt(rp_b.get_x() * rp_b.get_x() + rp_b.get_y() * rp_b.get_y() + rp_b.get_z() * rp_b.get_z()))))) * 57.296;
         }
 
-        public double BC_AC_angle() //возвращает градусную меру угла между сторонами  и АС
+        public double BC_AC_angle() //возвращает градусную меру угла между сторонами BC и АС
         {
             Point rp_1 = new Point(c.get_x() - b.get_x(), c.get_y() - b.get_y(), c.get_z() - b.get_z());
             Point rp_2 = new Point(c.get_x() - a.get_x(), c.get_y() - a.get_y(), c.get_z() - a.get_z());
