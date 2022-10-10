@@ -58,7 +58,7 @@ namespace LAB1_TASK7
             this.z = z;
         }
 
-        public int get_x(). //getter
+        public int get_x() //getter
         {
             return x;
         }
